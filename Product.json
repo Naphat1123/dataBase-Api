@@ -1,0 +1,21 @@
+[
+    {
+        "id" : "1" ,
+        "name" : "Naruto" ,
+        "Category" : "Action" , 
+        "Price" : 60
+        
+    },
+    {
+        "id" : "2" ,
+        "name" : "Bleach" ,
+        "Category" : "Action" , 
+        "Price" : 60
+    },
+    {
+        "id" : "3" ,
+        "name" : "One Piece" ,
+        "Category" : "Action" , 
+        "Price" : 60
+    }
+]
